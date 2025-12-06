@@ -1,7 +1,6 @@
 {
   "Healthy": [
     "No action required",
-    "Changes",
     "Well played",
     "Sample healthy"
   ],
