@@ -1,0 +1,30 @@
+{
+  "Healthy": [
+    "No action required",
+    "Changes",
+    "Well played",
+    "Okay"
+  ],
+  "Anthracnose": [
+    "Apply fungicide"
+  ],
+  "Bacterial Canker": [
+    "Remove infected leaves"
+  ],
+  "Cutting Weevil": [
+    "Spray insecticide"
+  ],
+  "Die Back": [
+    "Prune infected branches",
+    "Hello 123"
+  ],
+  "Gall Midge": [
+    "Apply neem oil"
+  ],
+  "Powdery Mildew": [
+    "Use sulfur spray"
+  ],
+  "Sooty Mould": [
+    "Wash leaves with water"
+  ]
+}
