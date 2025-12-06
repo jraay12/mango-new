@@ -2,8 +2,7 @@
   "Healthy": [
     "No action required",
     "Changes",
-    "Well played",
-    "Okay"
+    "Well played"
   ],
   "Anthracnose": [
     "Apply fungicide"
