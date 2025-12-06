@@ -13,7 +13,7 @@ import {
 // GitHub API info
 const GITHUB_API_URL =
   "https://api.github.com/repos/jraay12/mango-new/contents/api.txt";
-const GITHUB_TOKEN = "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"; // <-- Add your token here
+const GITHUB_TOKEN = ""; // <-- Add your token here
 
 const categoriesList = [
   "Healthy",
