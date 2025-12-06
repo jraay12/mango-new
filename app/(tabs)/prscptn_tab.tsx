@@ -16,7 +16,7 @@ import * as FileSystem from "expo-file-system/legacy";
 
 const fileUri = `${FileSystem.documentDirectory}disease_prescriptions.txt`;
 const GITHUB_API_URL =
-  "https://api.github.com/repos/jraay12/mango-disease/contents/api.txt";
+  "https://api.github.com/repos/jraay12/mango-new/contents/api.txt";
 // const GITHUB_TOKEN = "YOUR_TOKEN_HERE"; // Optional if you need to push
 
 export default function ResultsScreen() {

@@ -12,7 +12,7 @@ import {
 
 // GitHub API info
 const GITHUB_API_URL =
-  "https://api.github.com/repos/jraay12/mango-disease/contents/api.txt";
+  "https://api.github.com/repos/jraay12/mango-new/contents/api.txt";
 const GITHUB_TOKEN = ""; // <-- Add your token here
 
 const categoriesList = [
