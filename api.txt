@@ -14,8 +14,7 @@
     "Spray insecticide"
   ],
   "Die Back": [
-    "Prune infected branches",
-    "Hello 123"
+    "Prune infected branches"
   ],
   "Gall Midge": [
     "Apply neem oil"
