@@ -1,6 +1,5 @@
 {
   "Healthy": [
-    "Sample prescription",
     "This is sample prescription for healthy"
   ],
   "Anthracnose": [
