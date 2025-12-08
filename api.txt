@@ -9,9 +9,7 @@
   "Cutting Weevil": [],
   "Die Back": [],
   "Gall Midge": [],
-  "Powdery Mildew": [
-    "Use sulfur spray"
-  ],
+  "Powdery Mildew": [],
   "Sooty Mould": [
     "Wash leaves with water"
   ]
