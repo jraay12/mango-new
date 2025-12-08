@@ -1,7 +1,5 @@
 {
-  "Healthy": [
-    "No action required"
-  ],
+  "Healthy": [],
   "Anthracnose": [],
   "Bacterial Canker": [],
   "Cutting Weevil": [],
