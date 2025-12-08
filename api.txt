@@ -3,7 +3,9 @@
     "Sample prescription",
     "This is sample prescription for healthy"
   ],
-  "Anthracnose": [],
+  "Anthracnose": [
+    "This is sample prescription for anthracnose"
+  ],
   "Bacterial Canker": [],
   "Cutting Weevil": [],
   "Die Back": [],
