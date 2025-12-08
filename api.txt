@@ -1,6 +1,7 @@
 {
   "Healthy": [
-    "Sample prescription"
+    "Sample prescription",
+    "This is sample prescription for healthy"
   ],
   "Anthracnose": [],
   "Bacterial Canker": [],
