@@ -2,8 +2,7 @@
   "Healthy": [
     "No action required",
     "Well played",
-    "Sample healthy",
-    "Testing"
+    "Sample healthy"
   ],
   "Anthracnose": [],
   "Bacterial Canker": [],
