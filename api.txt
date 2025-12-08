@@ -1,5 +1,7 @@
 {
-  "Healthy": [],
+  "Healthy": [
+    "Sample prescription"
+  ],
   "Anthracnose": [],
   "Bacterial Canker": [],
   "Cutting Weevil": [],
