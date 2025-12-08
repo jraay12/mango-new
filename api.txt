@@ -8,9 +8,7 @@
   "Bacterial Canker": [],
   "Cutting Weevil": [],
   "Die Back": [],
-  "Gall Midge": [
-    "Apply neem oil"
-  ],
+  "Gall Midge": [],
   "Powdery Mildew": [
     "Use sulfur spray"
   ],
