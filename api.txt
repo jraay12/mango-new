@@ -4,9 +4,7 @@
     "Well played",
     "Sample healthy"
   ],
-  "Anthracnose": [
-    "Apply fungicide"
-  ],
+  "Anthracnose": [],
   "Bacterial Canker": [
     "Remove infected leaves"
   ],
