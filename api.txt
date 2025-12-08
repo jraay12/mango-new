@@ -6,12 +6,8 @@
   ],
   "Anthracnose": [],
   "Bacterial Canker": [],
-  "Cutting Weevil": [
-    "Spray insecticide"
-  ],
-  "Die Back": [
-    "Prune infected branches"
-  ],
+  "Cutting Weevil": [],
+  "Die Back": [],
   "Gall Midge": [
     "Apply neem oil"
   ],
