@@ -5,9 +5,7 @@
     "Sample healthy"
   ],
   "Anthracnose": [],
-  "Bacterial Canker": [
-    "Remove infected leaves"
-  ],
+  "Bacterial Canker": [],
   "Cutting Weevil": [
     "Spray insecticide"
   ],
