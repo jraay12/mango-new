@@ -8,10 +8,10 @@
       "Prune the tree lightly to maintain airflow between branches."
     ],
     "sources": [
-      "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees"
+      "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees",
+      "https://www.facebook.com/"
     ]
   },
-
   "Anthracnose": {
     "prescriptions": [
       "Apply copper-based fungicides every 7–14 days during wet seasons.",
@@ -25,7 +25,6 @@
       "https://ipm.ucanr.edu/PMG/PESTNOTES/pn7480.html"
     ]
   },
-
   "Bacterial Canker": {
     "prescriptions": [
       "Spray copper oxychloride or copper hydroxide at recommended intervals.",
@@ -39,7 +38,6 @@
       "https://www.gardeningknowhow.com/plant-problems/disease/bacterial-canker"
     ]
   },
-
   "Cutting Weevil": {
     "prescriptions": [
       "Apply contact insecticides like cypermethrin or lambda-cyhalothrin.",
@@ -53,7 +51,6 @@
       "https://entnemdept.ufl.edu/creatures/"
     ]
   },
-
   "Die Back": {
     "prescriptions": [
       "Prune infected twigs and branches and burn them immediately.",
@@ -67,7 +64,6 @@
       "https://agritech.tnau.ac.in/crop_protection/mango_diseases.html"
     ]
   },
-
   "Gall Midge": {
     "prescriptions": [
       "Apply systemic insecticides like imidacloprid during early infestation.",
@@ -81,7 +77,6 @@
       "https://agritech.tnau.ac.in/crop_protection/mango_insect.html"
     ]
   },
-
   "Powdery Mildew": {
     "prescriptions": [
       "Spray sulfur-based fungicides or potassium bicarbonate weekly.",
@@ -95,7 +90,6 @@
       "https://www.planetnatural.com/pest-problem-solver/plant-disease/powdery-mildew/"
     ]
   },
-
   "Sooty Mould": {
     "prescriptions": [
       "Control sap-sucking insects like aphids, whiteflies, and scale insects.",
