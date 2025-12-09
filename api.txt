@@ -1,14 +1,112 @@
 {
-  "Healthy": [
-    "This is sample prescription for healthy"
-  ],
-  "Anthracnose": [
-    "This is sample prescription for anthracnose"
-  ],
-  "Bacterial Canker": [],
-  "Cutting Weevil": [],
-  "Die Back": [],
-  "Gall Midge": [],
-  "Powdery Mildew": [],
-  "Sooty Mould": []
+  "Healthy": {
+    "prescriptions": [
+      "Continue regular monitoring of the leaves to ensure no signs of disease.",
+      "Maintain proper irrigation to avoid overwatering or underwatering.",
+      "Apply organic fertilizer every 2–3 months to support strong growth.",
+      "Keep the area around the tree clean and free of fallen debris.",
+      "Prune the tree lightly to maintain airflow between branches."
+    ],
+    "sources": [
+      "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees"
+    ]
+  },
+
+  "Anthracnose": {
+    "prescriptions": [
+      "Apply copper-based fungicides every 7–14 days during wet seasons.",
+      "Remove and burn infected leaves, twigs, and fruit to prevent spread.",
+      "Prune dense areas of the canopy to improve airflow.",
+      "Avoid overhead watering since moisture increases fungal outbreaks.",
+      "Use resistant mango varieties if available."
+    ],
+    "sources": [
+      "https://www.planetnatural.com/pest-problem-solver/plant-disease/anthracnose/",
+      "https://ipm.ucanr.edu/PMG/PESTNOTES/pn7480.html"
+    ]
+  },
+
+  "Bacterial Canker": {
+    "prescriptions": [
+      "Spray copper oxychloride or copper hydroxide at recommended intervals.",
+      "Prune infected branches at least 30 cm below visible symptoms.",
+      "Disinfect pruning tools with 10% bleach after each cut.",
+      "Avoid watering the foliage; use drip irrigation instead.",
+      "Remove all fallen leaves and fruits to reduce bacterial load."
+    ],
+    "sources": [
+      "https://agrifarming.in/mango-bacterial-canker-symptoms-treatment",
+      "https://www.gardeningknowhow.com/plant-problems/disease/bacterial-canker"
+    ]
+  },
+
+  "Cutting Weevil": {
+    "prescriptions": [
+      "Apply contact insecticides like cypermethrin or lambda-cyhalothrin.",
+      "Use pheromone traps to reduce adult weevil population.",
+      "Remove and destroy affected shoots to stop the infestation.",
+      "Keep the orchard clean to limit weevil breeding sites.",
+      "Apply neem oil regularly as a preventive treatment."
+    ],
+    "sources": [
+      "https://agrifarming.in/mango-stem-borer-control-treatment",
+      "https://entnemdept.ufl.edu/creatures/"
+    ]
+  },
+
+  "Die Back": {
+    "prescriptions": [
+      "Prune infected twigs and branches and burn them immediately.",
+      "Spray copper fungicides or mancozeb to prevent further infection.",
+      "Improve soil drainage to prevent root stress.",
+      "Apply organic compost to strengthen tree immunity.",
+      "Avoid excessive nitrogen fertilizers which increase susceptibility."
+    ],
+    "sources": [
+      "https://www.krishisewa.com/articles/pest-management/551-mangodieback.html",
+      "https://agritech.tnau.ac.in/crop_protection/mango_diseases.html"
+    ]
+  },
+
+  "Gall Midge": {
+    "prescriptions": [
+      "Apply systemic insecticides like imidacloprid during early infestation.",
+      "Remove and destroy infected leaves and tender shoots.",
+      "Use light traps to reduce adult midge population.",
+      "Maintain field sanitation and remove decaying plant matter.",
+      "Apply neem-based insecticides weekly as a preventive measure."
+    ],
+    "sources": [
+      "https://www.ikisan.com/mango-gall-midge.html",
+      "https://agritech.tnau.ac.in/crop_protection/mango_insect.html"
+    ]
+  },
+
+  "Powdery Mildew": {
+    "prescriptions": [
+      "Spray sulfur-based fungicides or potassium bicarbonate weekly.",
+      "Ensure proper spacing and pruning to reduce humidity around the canopy.",
+      "Avoid overhead irrigation to minimize moisture on leaves.",
+      "Apply fungicides early during flowering to protect blooms.",
+      "Use resistant varieties when available."
+    ],
+    "sources": [
+      "https://www.gardeningknowhow.com/plant-problems/disease/powdery-mildew-control.htm",
+      "https://www.planetnatural.com/pest-problem-solver/plant-disease/powdery-mildew/"
+    ]
+  },
+
+  "Sooty Mould": {
+    "prescriptions": [
+      "Control sap-sucking insects like aphids, whiteflies, and scale insects.",
+      "Spray horticultural oil or neem oil to remove mould buildup.",
+      "Wash leaves with water to reduce black mould coverage.",
+      "Improve airflow by pruning dense areas of the canopy.",
+      "Ensure proper fertilization to support new healthy leaf growth."
+    ],
+    "sources": [
+      "https://www.agric.wa.gov.au/plant-biosecurity/sooty-mould",
+      "https://www.gardeningknowhow.com/plant-problems/disease/sooty-mold-control.htm"
+    ]
+  }
 }
