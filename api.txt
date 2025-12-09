@@ -1,7 +1,6 @@
 {
   "Healthy": {
     "prescriptions": [
-      "Continue regular monitoring of the leaves to ensure no signs of disease.",
       "Maintain proper irrigation to avoid overwatering or underwatering.",
       "Apply organic fertilizer every 2–3 months to support strong growth.",
       "Keep the area around the tree clean and free of fallen debris.",
