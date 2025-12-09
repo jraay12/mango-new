@@ -7,8 +7,7 @@
       "Prune the tree lightly to maintain airflow between branches."
     ],
     "sources": [
-      "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees",
-      "https://www.facebook.com/"
+      "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees"
     ]
   },
   "Anthracnose": {
