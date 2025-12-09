@@ -5,7 +5,7 @@
       "Apply organic fertilizer every 2–3 months to support strong growth.",
       "Keep the area around the tree clean and free of fallen debris.",
       "Prune the tree lightly to maintain airflow between branches.",
-      "Sample only"
+      "Sample only test"
     ],
     "sources": [
       "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees"
