@@ -25,7 +25,7 @@
   },
   "Bacterial Canker": {
     "prescriptions": [
-      "Spray copper oxychloride or copper hydroxide at recommended intervals.\nGo",
+      "Spray copper oxychloride or copper hydroxide at recommended intervals.",
       "Prune infected branches at least 30 cm below visible symptoms.",
       "Disinfect pruning tools with 10% bleach after each cut.",
       "Avoid watering the foliage; use drip irrigation instead.",
