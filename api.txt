@@ -4,8 +4,7 @@
       "Maintain proper irrigation to avoid overwatering or underwatering.",
       "Apply organic fertilizer every 2–3 months to support strong growth.",
       "Keep the area around the tree clean and free of fallen debris.",
-      "Prune the tree lightly to maintain airflow between branches.",
-      "Example rani huehue"
+      "Prune the tree lightly to maintain airflow between branches."
     ],
     "sources": [
       "https://www.agriculture.com/crops/fruit/how-to-care-for-healthy-fruit-trees"
