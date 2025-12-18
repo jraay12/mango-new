@@ -1,7 +1,6 @@
 {
   "Healthy": {
     "prescriptions": [
-      "Keep the area around the tree clean and free of fallen debris.",
       "Prune the tree lightly to maintain airflow between branches."
     ],
     "sources": [
