@@ -40,7 +40,8 @@
       "Use pheromone traps to reduce adult weevil population.",
       "Remove and destroy affected shoots to stop the infestation.",
       "Keep the orchard clean to limit weevil breeding sites.",
-      "Apply neem oil regularly as a preventive treatment."
+      "Apply neem oil regularly as a preventive treatment.",
+      "Garlic + Chili extract = Crush garlic and chili, mix with water, strain, then spray\nHelps repel weevils"
     ],
     "sources": [
       "https://agrifarming.in/mango-stem-borer-control-treatment",
