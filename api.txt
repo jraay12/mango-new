@@ -13,7 +13,8 @@
       "Remove and burn infected leaves, twigs, and fruit to prevent spread.",
       "Prune dense areas of the canopy to improve airflow.",
       "Avoid overhead watering since moisture increases fungal outbreaks.",
-      "Use resistant mango varieties if available."
+      "Use resistant mango varieties if available.",
+      "Hmmm"
     ],
     "sources": [
       "https://www.planetnatural.com/pest-problem-solver/plant-disease/anthracnose/",
